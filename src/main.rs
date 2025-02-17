@@ -48,6 +48,7 @@ fn the_game(response_ans: &mut String, player_health: &mut i8) {
         }
 
         the_guess.clear();
+        
     }
     
 }
